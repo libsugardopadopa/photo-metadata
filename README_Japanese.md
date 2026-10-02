@@ -290,7 +290,7 @@ if date == md.error_string:
 
 ### github
 
-`https://github.com/kingyo1205/photo-metadata`
+`https://github.com/libsugardopadopa/photo-metadata`
 
 ---
 

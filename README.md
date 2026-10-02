@@ -10,7 +10,7 @@ Python library to extract, read, modify, and write photo and video metadata
 ---
 
 > 📕
-> [README_Japanese](https://github.com/kingyo1205/photo-metadata/blob/main/README_Japanese.md)
+> [README_Japanese](https://github.com/libsugardopadopa/photo-metadata/blob/main/README_Japanese.md)
 
 ---
 
@@ -318,7 +318,7 @@ mbp.rename_files()
 ## URLs
 
 - PyPI: `https://pypi.org/project/photo-metadata/`
-- GitHub: `https://github.com/kingyo1205/photo-metadata`
+- GitHub: `https://github.com/libsugardopadopa/photo-metadata`
 
 ---
 

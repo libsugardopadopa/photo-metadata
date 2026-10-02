@@ -17,8 +17,8 @@ setup(
         os.path.join(os.path.dirname(__file__), "README.md"), encoding="utf-8"
     ).read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/kingyo1205/photo-metadata",
-    author="kingyo1205",
+    url="https://github.com/libsugardopadopa/photo-metadata",
+    author="libsugardopadopa",
     author_email="kingyo.programming@gmail.com",
     install_requires=[
         "tqdm",
@@ -52,8 +52,8 @@ setup(
         "Topic :: Utilities",
     ],
     project_urls={
-        "Documentation": "https://github.com/kingyo1205/photo-metadata#readme",
-        "Source": "https://github.com/kingyo1205/photo-metadata",
-        "Tracker": "https://github.com/kingyo1205/photo-metadata/issues",
+        "Documentation": "https://github.com/libsugardopadopa/photo-metadata#readme",
+        "Source": "https://github.com/libsugardopadopa/photo-metadata",
+        "Tracker": "https://github.com/libsugardopadopa/photo-metadata/issues",
     },
 )
